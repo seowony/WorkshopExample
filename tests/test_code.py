@@ -2,7 +2,7 @@ import numpy as np
 import pytest
 
 from some_module import integrate_trapz
-from some_module import extract_sentence_containing_word
+# from some_module import extract_sentence_containing_word
 
 # Testing the zero case. Plenty of other tests to write!
 def test_integrate_trapz_1():
