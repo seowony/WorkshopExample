@@ -14,9 +14,9 @@ A small github repo used as an example for the coding workshop!
 To use this framework you will need to:
 
 
-1. Replace my email (samuelreay@gmail.com) with your own.
-2. Replace all instances of samreay & samuelreay, with your own username (case insensitive replace).
-3. Replace my name (Samuel Hinton) with yours (used in the doc and license).
+1. Replace my email (seowon.chang@gmail.com) with your own.
+2. Replace all instances of seowony, with your own username (case insensitive replace).
+3. Replace my name (Seo-Won Chang) with yours (used in the doc and license).
 3. Update the project name if you rename it. (At this point, should have edits to .travis.yml, setup.py, README.md, conf.py, LICENSE.)
 4. Enable Travis, CodeCov and Codacy. (You may need to make a commit and push after enabling travis to kick off a build.)
 5. Update the codacy badge in this readme because it uses more than username/repo (get the badge from codacy project settings).
